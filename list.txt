@@ -1,0 +1,53 @@
+127.0.0.1	tpc.googlesyndication.com
+::1		tpc.googlesyndication.com
+
+127.0.0.1	www.googleadservices.com
+::1		www.googleadservices.com
+
+127.0.0.1	pc-adroute.focas.jp
+::1		pc-adroute.focas.jp
+
+127.0.0.1	gsspat.jp
+::1		gsspat.jp
+
+127.0.0.1	al-gest.com
+::1		al-gest.com
+
+127.0.0.1	zucks.net
+::1		zucks.net
+
+127.0.0.1	i2ad.jp
+::1		i2ad.jp
+
+127.0.0.1	doubleclick.net
+::1		doubleclick.net
+
+127.0.0.1	ads.as.criteo.com
+::1		ads.as.criteo.com
+
+127.0.0.1	s0.2mdn.net
+::1		s0.2mdn.net
+
+127.0.0.1	zucks.net.zimg.jp
+::1		zucks.net.zimg.jp
+
+127.0.0.1	fam.adingo.jp
+::1		fam.adingo.jp
+
+127.0.0.1	googletagmanager.com
+::1		googletagmanager.com
+
+127.0.0.1	googleusercontent.com
+::1		googleusercontent.com
+
+127.0.0.1	pagead2.googlesyndication.com
+::1		pagead2.googlesyndication.com
+
+127.0.0.1	googleads.g.doubleclick.net
+::1		googleads.g.doubleclick.net
+
+127.0.0.1	static.zucks.net.zimg.jp
+::1		static.zucks.net.zimg.jp
+
+127.0.0.1	microad.net
+::1		microad.net
